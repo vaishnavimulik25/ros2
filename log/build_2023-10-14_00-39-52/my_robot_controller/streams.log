@@ -1,0 +1,29 @@
+[1.366s] Invoking command in '/home/vaishnavi/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/vaishnavi/ros2_ws/build/my_robot_controller/prefix_override:/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/vaishnavi/ros2_ws/build/my_robot_controller/build
+[1.920s] running develop
+[2.320s] Invoked command in '/home/vaishnavi/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/vaishnavi/ros2_ws/build/my_robot_controller/prefix_override:/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/vaishnavi/ros2_ws/build/my_robot_controller/build
+[2.324s] Invoking command in '/home/vaishnavi/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/vaishnavi/ros2_ws/build/my_robot_controller/prefix_override:/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/vaishnavi/ros2_ws/build/my_robot_controller/build install --record /home/vaishnavi/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[2.837s] running egg_info
+[2.839s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[2.839s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[2.839s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[2.840s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[2.840s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[2.845s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.847s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.847s] running build
+[2.847s] running build_py
+[2.848s] copying my_robot_controller/pose_subscriber.py -> /home/vaishnavi/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[2.849s] running install
+[2.849s] running install_lib
+[2.852s] copying /home/vaishnavi/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/pose_subscriber.py -> /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.853s] byte-compiling /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/pose_subscriber.py to pose_subscriber.cpython-310.pyc
+[2.854s] running install_data
+[2.855s] copying package.xml -> /home/vaishnavi/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[2.856s] running install_egg_info
+[2.859s] removing '/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.860s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[2.862s] running install_scripts
+[2.904s] Installing draw_circle script to /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.904s] Installing test_node script to /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.905s] writing list of installed files to '/home/vaishnavi/ros2_ws/build/my_robot_controller/install.log'
+[2.957s] Invoked command in '/home/vaishnavi/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/vaishnavi/ros2_ws/build/my_robot_controller/prefix_override:/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/vaishnavi/ros2_ws/build/my_robot_controller/build install --record /home/vaishnavi/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed

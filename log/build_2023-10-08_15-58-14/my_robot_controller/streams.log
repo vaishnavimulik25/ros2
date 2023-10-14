@@ -1,0 +1,21 @@
+[1.311s] Invoking command in '/home/vaishnavi/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/vaishnavi/ros2_ws/build/my_robot_controller/prefix_override:/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/vaishnavi/ros2_ws/build/my_robot_controller/build install --record /home/vaishnavi/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[1.807s] running egg_info
+[1.808s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[1.809s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[1.809s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[1.809s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[1.809s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[1.812s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.820s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.820s] running build
+[1.820s] running build_py
+[1.820s] running install
+[1.821s] running install_lib
+[1.824s] running install_data
+[1.825s] running install_egg_info
+[1.827s] removing '/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.828s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[1.829s] running install_scripts
+[1.868s] Installing test_node script to /home/vaishnavi/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.869s] writing list of installed files to '/home/vaishnavi/ros2_ws/build/my_robot_controller/install.log'
+[1.919s] Invoked command in '/home/vaishnavi/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/vaishnavi/ros2_ws/build/my_robot_controller/prefix_override:/home/vaishnavi/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/vaishnavi/ros2_ws/build/my_robot_controller/build install --record /home/vaishnavi/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed

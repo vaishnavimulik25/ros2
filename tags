@@ -1,0 +1,123 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DSV_TYPE_APPEND_NON_DUPLICATE	install/_local_setup_util_ps1.py	/^DSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'$/;"	v
+DSV_TYPE_APPEND_NON_DUPLICATE	install/_local_setup_util_sh.py	/^DSV_TYPE_APPEND_NON_DUPLICATE = 'append-non-duplicate'$/;"	v
+DSV_TYPE_PREPEND_NON_DUPLICATE	install/_local_setup_util_ps1.py	/^DSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'$/;"	v
+DSV_TYPE_PREPEND_NON_DUPLICATE	install/_local_setup_util_sh.py	/^DSV_TYPE_PREPEND_NON_DUPLICATE = 'prepend-non-duplicate'$/;"	v
+DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS	install/_local_setup_util_ps1.py	/^DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'$/;"	v
+DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS	install/_local_setup_util_sh.py	/^DSV_TYPE_PREPEND_NON_DUPLICATE_IF_EXISTS = 'prepend-non-duplicate-if-exists'$/;"	v
+DSV_TYPE_SET	install/_local_setup_util_ps1.py	/^DSV_TYPE_SET = 'set'$/;"	v
+DSV_TYPE_SET	install/_local_setup_util_sh.py	/^DSV_TYPE_SET = 'set'$/;"	v
+DSV_TYPE_SET_IF_UNSET	install/_local_setup_util_ps1.py	/^DSV_TYPE_SET_IF_UNSET = 'set-if-unset'$/;"	v
+DSV_TYPE_SET_IF_UNSET	install/_local_setup_util_sh.py	/^DSV_TYPE_SET_IF_UNSET = 'set-if-unset'$/;"	v
+DSV_TYPE_SOURCE	install/_local_setup_util_ps1.py	/^DSV_TYPE_SOURCE = 'source'$/;"	v
+DSV_TYPE_SOURCE	install/_local_setup_util_sh.py	/^DSV_TYPE_SOURCE = 'source'$/;"	v
+DrawCircleNode	build/my_robot_controller/my_robot_controller/draw_circle.py	/^class DrawCircleNode(Node):$/;"	c
+DrawCircleNode	src/my_robot_controller/my_robot_controller/draw_circle.py	/^class DrawCircleNode(Node):$/;"	c
+FORMAT_STR_COMMENT_LINE	install/_local_setup_util_ps1.py	/^FORMAT_STR_COMMENT_LINE = '# {comment}'$/;"	v
+FORMAT_STR_COMMENT_LINE	install/_local_setup_util_sh.py	/^FORMAT_STR_COMMENT_LINE = '# {comment}'$/;"	v
+FORMAT_STR_INVOKE_SCRIPT	install/_local_setup_util_ps1.py	/^FORMAT_STR_INVOKE_SCRIPT = '_colcon_prefix_powershell_source_script "{script_path}"'$/;"	v
+FORMAT_STR_REMOVE_LEADING_SEPARATOR	install/_local_setup_util_ps1.py	/^FORMAT_STR_REMOVE_LEADING_SEPARATOR = ''$/;"	v
+FORMAT_STR_REMOVE_LEADING_SEPARATOR	install/_local_setup_util_sh.py	/^FORMAT_STR_REMOVE_LEADING_SEPARATOR = 'if [ "$(echo -n ${name} | head -c 1)" = ":" ]; then export {name}=${{{name}#?}} ; fi'$/;"	v
+FORMAT_STR_REMOVE_TRAILING_SEPARATOR	install/_local_setup_util_ps1.py	/^FORMAT_STR_REMOVE_TRAILING_SEPARATOR = ''$/;"	v
+FORMAT_STR_REMOVE_TRAILING_SEPARATOR	install/_local_setup_util_sh.py	/^FORMAT_STR_REMOVE_TRAILING_SEPARATOR = 'if [ "$(echo -n ${name} | tail -c 1)" = ":" ]; then export {name}=${{{name}%?}} ; fi'$/;"	v
+FORMAT_STR_SET_ENV_VAR	install/_local_setup_util_ps1.py	/^FORMAT_STR_SET_ENV_VAR = 'Set-Item -Path "Env:{name}" -Value "{value}"'$/;"	v
+FORMAT_STR_USE_ENV_VAR	install/_local_setup_util_ps1.py	/^FORMAT_STR_USE_ENV_VAR = '$env:{name}'$/;"	v
+FORMAT_STR_USE_ENV_VAR	install/_local_setup_util_sh.py	/^FORMAT_STR_USE_ENV_VAR = '${name}'$/;"	v
+MyNode	build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py	/^class MyNode(Node):$/;"	c
+MyNode	build/my_robot_controller/my_robot_controller/my_first_node.py	/^class MyNode(Node):$/;"	c
+MyNode	src/my_robot_controller/my_robot_controller/my_first_node.py	/^class MyNode(Node):$/;"	c
+__init__	build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py	/^    def __init__(self):$/;"	m	class:MyNode
+__init__	build/my_robot_controller/my_robot_controller/draw_circle.py	/^    def __init__(self):$/;"	m	class:DrawCircleNode
+__init__	build/my_robot_controller/my_robot_controller/my_first_node.py	/^    def __init__(self):$/;"	m	class:MyNode
+__init__	src/my_robot_controller/my_robot_controller/draw_circle.py	/^    def __init__(self):$/;"	m	class:DrawCircleNode
+__init__	src/my_robot_controller/my_robot_controller/my_first_node.py	/^    def __init__(self):$/;"	m	class:MyNode
+_append_unique_value	install/_local_setup_util_ps1.py	/^def _append_unique_value(name, value):$/;"	f
+_append_unique_value	install/_local_setup_util_sh.py	/^def _append_unique_value(name, value):$/;"	f
+_colcon_package_bash_source_script	install/my_robot_controller/share/my_robot_controller/package.bash	/^_colcon_package_bash_source_script() {$/;"	f
+_colcon_package_sh_source_script	install/my_robot_controller/share/my_robot_controller/package.sh	/^_colcon_package_sh_source_script() {$/;"	f
+_colcon_package_zsh_source_script	install/my_robot_controller/share/my_robot_controller/package.zsh	/^_colcon_package_zsh_source_script() {$/;"	f
+_colcon_prefix_bash_prepend_unique_value	install/local_setup.bash	/^_colcon_prefix_bash_prepend_unique_value() {$/;"	f
+_colcon_prefix_chain_bash_source_script	install/setup.bash	/^_colcon_prefix_chain_bash_source_script() {$/;"	f
+_colcon_prefix_chain_sh_source_script	install/setup.sh	/^_colcon_prefix_chain_sh_source_script() {$/;"	f
+_colcon_prefix_chain_zsh_source_script	install/setup.zsh	/^_colcon_prefix_chain_zsh_source_script() {$/;"	f
+_colcon_prefix_sh_prepend_unique_value	install/local_setup.sh	/^_colcon_prefix_sh_prepend_unique_value() {$/;"	f
+_colcon_prefix_sh_source_script	install/local_setup.bash	/^_colcon_prefix_sh_source_script() {$/;"	f
+_colcon_prefix_sh_source_script	install/local_setup.sh	/^_colcon_prefix_sh_source_script() {$/;"	f
+_colcon_prefix_sh_source_script	install/local_setup.zsh	/^_colcon_prefix_sh_source_script() {$/;"	f
+_colcon_prefix_zsh_convert_to_array	install/local_setup.zsh	/^_colcon_prefix_zsh_convert_to_array() {$/;"	f
+_colcon_prefix_zsh_prepend_unique_value	install/local_setup.zsh	/^_colcon_prefix_zsh_prepend_unique_value() {$/;"	f
+_colcon_prepend_unique_value	install/my_robot_controller/share/my_robot_controller/package.sh	/^_colcon_prepend_unique_value() {$/;"	f
+_include_comments	install/_local_setup_util_ps1.py	/^def _include_comments():$/;"	f
+_include_comments	install/_local_setup_util_sh.py	/^def _include_comments():$/;"	f
+_prepend_unique_value	install/_local_setup_util_ps1.py	/^def _prepend_unique_value(name, value):$/;"	f
+_prepend_unique_value	install/_local_setup_util_sh.py	/^def _prepend_unique_value(name, value):$/;"	f
+_remove_ending_separators	install/_local_setup_util_ps1.py	/^def _remove_ending_separators():$/;"	f
+_remove_ending_separators	install/_local_setup_util_sh.py	/^def _remove_ending_separators():$/;"	f
+_set	install/_local_setup_util_ps1.py	/^def _set(name, value):$/;"	f
+_set	install/_local_setup_util_sh.py	/^def _set(name, value):$/;"	f
+_set_if_unset	install/_local_setup_util_ps1.py	/^def _set_if_unset(name, value):$/;"	f
+_set_if_unset	install/_local_setup_util_sh.py	/^def _set_if_unset(name, value):$/;"	f
+add_package_runtime_dependencies	install/_local_setup_util_ps1.py	/^def add_package_runtime_dependencies(path, packages):$/;"	f
+add_package_runtime_dependencies	install/_local_setup_util_sh.py	/^def add_package_runtime_dependencies(path, packages):$/;"	f
+colcon_zsh_convert_to_array	install/my_robot_controller/share/my_robot_controller/package.zsh	/^colcon_zsh_convert_to_array() {$/;"	f
+data_files	build/my_robot_controller/setup.py	/^    data_files=[$/;"	v
+data_files	src/my_robot_controller/setup.py	/^    data_files=[$/;"	v
+description	build/my_robot_controller/setup.py	/^    description='TODO: Package description',$/;"	v
+description	src/my_robot_controller/setup.py	/^    description='TODO: Package description',$/;"	v
+entry_points	build/my_robot_controller/setup.py	/^    entry_points={$/;"	v
+entry_points	src/my_robot_controller/setup.py	/^    entry_points={$/;"	v
+env_state	install/_local_setup_util_ps1.py	/^env_state = {}$/;"	v
+env_state	install/_local_setup_util_sh.py	/^env_state = {}$/;"	v
+get_commands	install/_local_setup_util_ps1.py	/^def get_commands(pkg_name, prefix, primary_extension, additional_extension):$/;"	f
+get_commands	install/_local_setup_util_sh.py	/^def get_commands(pkg_name, prefix, primary_extension, additional_extension):$/;"	f
+get_packages	install/_local_setup_util_ps1.py	/^def get_packages(prefix_path, merged_install):$/;"	f
+get_packages	install/_local_setup_util_sh.py	/^def get_packages(prefix_path, merged_install):$/;"	f
+handle_dsv_types_except_source	install/_local_setup_util_ps1.py	/^def handle_dsv_types_except_source(type_, remainder, prefix):$/;"	f
+handle_dsv_types_except_source	install/_local_setup_util_sh.py	/^def handle_dsv_types_except_source(type_, remainder, prefix):$/;"	f
+install_requires	build/my_robot_controller/setup.py	/^    install_requires=['setuptools'],$/;"	v
+install_requires	src/my_robot_controller/setup.py	/^    install_requires=['setuptools'],$/;"	v
+license	build/my_robot_controller/setup.py	/^    license='TODO: License declaration',$/;"	v
+license	src/my_robot_controller/setup.py	/^    license='TODO: License declaration',$/;"	v
+main	build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py	/^def main(args=None):$/;"	f
+main	build/my_robot_controller/my_robot_controller/draw_circle.py	/^def main(args=None):$/;"	f
+main	build/my_robot_controller/my_robot_controller/my_first_node.py	/^def main(args=None):$/;"	f
+main	install/_local_setup_util_ps1.py	/^def main(argv=sys.argv[1:]):  # noqa: D103$/;"	f
+main	install/_local_setup_util_sh.py	/^def main(argv=sys.argv[1:]):  # noqa: D103$/;"	f
+main	src/my_robot_controller/my_robot_controller/draw_circle.py	/^def main(args=None):$/;"	f
+main	src/my_robot_controller/my_robot_controller/my_first_node.py	/^def main(args=None):$/;"	f
+maintainer	build/my_robot_controller/setup.py	/^    maintainer='vaishnavi',$/;"	v
+maintainer	src/my_robot_controller/setup.py	/^    maintainer='vaishnavi',$/;"	v
+maintainer_email	build/my_robot_controller/setup.py	/^    maintainer_email='vaishnavi@todo.todo',$/;"	v
+maintainer_email	src/my_robot_controller/setup.py	/^    maintainer_email='vaishnavi@todo.todo',$/;"	v
+name	build/my_robot_controller/setup.py	/^    name=package_name,$/;"	v
+name	src/my_robot_controller/setup.py	/^    name=package_name,$/;"	v
+order_packages	install/_local_setup_util_ps1.py	/^def order_packages(packages):$/;"	f
+order_packages	install/_local_setup_util_sh.py	/^def order_packages(packages):$/;"	f
+package_name	build/my_robot_controller/setup.py	/^package_name = 'my_robot_controller'$/;"	v
+package_name	src/my_robot_controller/setup.py	/^package_name = 'my_robot_controller'$/;"	v
+packages	build/my_robot_controller/setup.py	/^    packages=find_packages(exclude=['test']),$/;"	v
+packages	src/my_robot_controller/setup.py	/^    packages=find_packages(exclude=['test']),$/;"	v
+process_dsv_file	install/_local_setup_util_ps1.py	/^def process_dsv_file($/;"	f
+process_dsv_file	install/_local_setup_util_sh.py	/^def process_dsv_file($/;"	f
+rc	install/_local_setup_util_ps1.py	/^        rc = 1$/;"	v
+rc	install/_local_setup_util_ps1.py	/^        rc = main()$/;"	v
+rc	install/_local_setup_util_sh.py	/^        rc = 1$/;"	v
+rc	install/_local_setup_util_sh.py	/^        rc = main()$/;"	v
+reduce_cycle_set	install/_local_setup_util_ps1.py	/^def reduce_cycle_set(packages):$/;"	f
+reduce_cycle_set	install/_local_setup_util_sh.py	/^def reduce_cycle_set(packages):$/;"	f
+test_copyright	src/my_robot_controller/test/test_copyright.py	/^def test_copyright():$/;"	f
+test_flake8	src/my_robot_controller/test/test_flake8.py	/^def test_flake8():$/;"	f
+test_pep257	src/my_robot_controller/test/test_pep257.py	/^def test_pep257():$/;"	f
+tests_require	build/my_robot_controller/setup.py	/^    tests_require=['pytest'],$/;"	v
+tests_require	src/my_robot_controller/setup.py	/^    tests_require=['pytest'],$/;"	v
+timer	build/my_robot_controller/my_robot_controller/my_first_node.py	/^    def timer(self):$/;"	m	class:MyNode
+timer	src/my_robot_controller/my_robot_controller/my_first_node.py	/^    def timer(self):$/;"	m	class:MyNode
+version	build/my_robot_controller/setup.py	/^    version='0.0.0',$/;"	v
+version	src/my_robot_controller/setup.py	/^    version='0.0.0',$/;"	v
+zip_safe	build/my_robot_controller/setup.py	/^    zip_safe=True,$/;"	v
+zip_safe	src/my_robot_controller/setup.py	/^    zip_safe=True,$/;"	v
